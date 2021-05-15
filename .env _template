@@ -1,0 +1,2 @@
+FLASK_APP=punto de entrada de la aplicación
+FLASK_ENV=entrono de producción
